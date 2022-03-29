@@ -143,6 +143,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+  cursor: pointer;
 
   background: #f5f4fa;
   border-radius: 4px;
