@@ -45,7 +45,7 @@ body {
 
 /* ========== HEADER ========== */
 .navigation-logo {
-  font-family: "Raleway";
+  font-family: var(--secondary-font);
   font-weight: 700;
   font-size: 26px;
   line-height: 1.192;
